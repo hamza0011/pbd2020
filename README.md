@@ -1,7 +1,7 @@
 # pbd2020
 Semester Project_PBD_2020
 
-=================================Tesla Stock Data Analysis=======================================
+===============Tesla Stock Data Analysis================
 
 Following are the operations Performed:
 
