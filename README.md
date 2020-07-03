@@ -5,12 +5,12 @@ Semester Project_PBD_2020
 
 Following are the operations Performed:
 
-Data Cleansing
-Data Visualization
-Data Exploration
-Data Normalization
-Big Data Analysis
-Statistical Operations
+Data Cleansing,
+Data Visualization,
+Data Exploration,
+Data Normalization,
+Big Data Analysis,
+Statistical Operations,
 Machine Learning
 
 
